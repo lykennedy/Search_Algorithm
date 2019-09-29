@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553451770 source:c:\users\kennedy\desktop\parallel programming\search_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
